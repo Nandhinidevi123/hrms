@@ -40,4 +40,3 @@ frappe.ui.form.on("Training Result", {
 		}
 	},
 });
-
